@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Data Mining](https://img.shields.io/badge/Data%20Mining-Project-blueviolet?style=for-the-badge)
 # GBP/TRY Exchange Rate Analysis Project
 
 ## Project Description
